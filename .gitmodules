@@ -1,3 +1,6 @@
 [submodule "snappy-c"]
 	path = snappy-c
 	url = https://github.com/huangover/snappy-c.git
+[submodule "Submod"]
+	url = https://github.com/huangover/snappy-c.git
+	branch = master
